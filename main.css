@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .img{
+    opacity:0;
+    transform: translateY(50px);
+    animation:moveup 2s linear forwards;
+}
+.p1{
+    animation-delay: 0s;
+}
+.p2{
+    animation-delay: 0.65s;
+}
+.p3{
+    animation-delay: 0.75s;
+}
+.p4{
+    animation-delay: 1s;
+}
+.p5{
+    animation-delay: 1.25s;
+}
+.p6{
+    animation-delay: 1.5s;
+}
+@keyframes moveup{
+
+    100%{
+        opacity:1;
+        transform: translateY(0);
+    }
+} */
